@@ -17,7 +17,7 @@ For a manual installation, follow the steps reported below.
 
 * Clone the repository:
 ```
-git clone 
+git clone https://github.com/cybersecurity-cnr/docker-stego-protector
 ```
 * `cd` into the cloned repository:
 ```
