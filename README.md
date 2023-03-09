@@ -47,4 +47,4 @@ where:
 
 * [Enrico Cambiaso](https://www.ieiit.cnr.it/people/Cambiaso-Enrico)
 * [Luca Caviglione](https://www.imati.cnr.it/mypage.php?idk=PG-44)
-* [Marco Zuppelli](https://www.cnr.it/#)
+* [Marco Zuppelli](https://www.imati.cnr.it/mypage.php?idk=PG-157)
