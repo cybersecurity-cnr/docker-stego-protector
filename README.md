@@ -48,3 +48,7 @@ where:
 * [Enrico Cambiaso](https://www.ieiit.cnr.it/people/Cambiaso-Enrico)
 * [Luca Caviglione](https://www.imati.cnr.it/mypage.php?idk=PG-44)
 * [Marco Zuppelli](https://www.imati.cnr.it/mypage.php?idk=PG-157)
+
+## ACKNOWLEDGMENT
+
+This work was partially supported by project [SERICS](https://serics.eu/) (PE00000014) under the NRRP MUR program funded by the EU - NGEU.
