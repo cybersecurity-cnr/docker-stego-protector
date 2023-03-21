@@ -36,12 +36,13 @@ docker save docker-stego-protector:latest|gzip > docker-stego-protector.tar.gz
 
 Just run the Docker container, with a command similar to the following one:
 ```
-docker run -e SIZEFROM=1000000000 -e SIZETO=2000000000 -e TIMEOUT=1 -t docker-stego-protector
+docker run -e SIZEFROM=1000000000 -e SIZETO=2000000000 -e TIMEOUTFROM=1 -e TIMEOUTFROM=5 -t docker-stego-protector
 ```
 where:
 * `SIZEFROM` identifies the minimum size of memory to allocate at each round, in bytes
 * `SIZETO` identifies the maximum size of memory to allocate at each round, in bytes
-* `TIMEOUT` identifies the duration of each round, in seconds
+* `TIMEOUTFROM` identifies the minimum duration of each round, in seconds
+* `TIMEOUTTO` identifies the maximum duration of each round, in seconds
 
 ### Credits ###
 
