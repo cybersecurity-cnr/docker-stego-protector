@@ -9,7 +9,7 @@ In order to disturb the covert channel, a random amount of memory is periodicall
 This repository represent an outcome of a joint research by [CNR-IMATI](https://imati.cnr.it) and [CNR-IEIIT](https://www.ieiit.cnr.it).
 In case of exploitation for research purposes, please mention the following paper:
 
-M. Zuppelli, M. Repetto, L. Caviglione, E. Cambiaso, _Information Leakages of Docker Containers: Characterization and Mitigation Strategies_, 5th International Workshop on Cyber-Security Threats, Trust and Privacy Management in Software-defined and Virtualized Infrastructures, within the 9th International Conference on Network Softwarization, Madrid, Spain, June 2023.
+M. Zuppelli, M. Repetto, L. Caviglione, E. Cambiaso, _Information Leakages of Docker Containers: Characterization and Mitigation Strategies_, 9th International Conference on Network Softwarization, Madrid, Spain, 19 - 23 June 2023.
 
 ### Installation ###
 
